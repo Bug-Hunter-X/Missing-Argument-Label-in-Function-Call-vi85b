@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift: forgetting to include argument labels when calling a function.  The `calculateArea` function requires both `width` and `height` parameters, each with a label. The incorrect call omits the label for `height`, resulting in a compiler error.
